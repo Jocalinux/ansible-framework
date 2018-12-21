@@ -1,13 +1,16 @@
 # ansible-framework
-Ansible Framework (tools for ansible)
 
 Hi stranger!
 
 This is a initial upload.  
 
-This file contain all instructions to use Ansible Framework (GNU GPL v3).
+Ansible Framework (tools for ansible)
 
-Do you need any help?
+Download and extract the file: ansible-framework.tar.gz
+
+Edit your framework directory: '*af/configs/settings'
+
+Need a help? 
 
 jocalinux@gmail.com
 
